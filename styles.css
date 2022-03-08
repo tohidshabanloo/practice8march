@@ -1,0 +1,17 @@
+body {
+  background-color: antiquewhite;
+}
+.box {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  border: 2px;
+  border-style: 2px;
+  font-size: 20px;
+  text-align: center;
+}
+.info {
+  align-items: center;
+  border: 2px;
+  border-style: 2px;
+}
